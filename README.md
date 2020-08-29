@@ -7,10 +7,10 @@ I used deep learning and in addition to that, the concept of NLP (Natural Langua
 Dataset Used-
 http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
-Requirements:
-Python
-Pytorch
-nltk
+Requirements-
+1) Python
+2) Pytorch
+3) nltk
 
 How to implement-
 1)Download the data ZIP file from the above link and put in a data/ directory under the current directory.
