@@ -13,8 +13,8 @@ Requirements-
 3) nltk
 
 How to implement-
-1)Download the data ZIP file from the above link and put in a data/ directory under the current directory.
-2)Run chatbot.ipynb 
+1) Download the data ZIP file from the above link and put in a data/ directory under the current directory.
+2) Run chatbot.ipynb 
 
 Results-
 ![](output.png)
